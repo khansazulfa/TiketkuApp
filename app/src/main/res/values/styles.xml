@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="btn_blue_primary">
+        <item name="android:layout_width">274dp</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="android:background">@drawable/bg_btn_blue_primary</item>
+        <item name="android:fontFamily">@font/mmedium</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="btn_blue_primary_two">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="android:background">@drawable/bg_btn_blue_primary</item>
+        <item name="android:fontFamily">@font/mmedium</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="btn_green_primary">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="android:background">@drawable/bg_btn_green_primary</item>
+        <item name="android:fontFamily">@font/mmedium</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>

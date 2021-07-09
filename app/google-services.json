@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517629408824",
+    "project_id": "tiketku-75f14",
+    "storage_bucket": "tiketku-75f14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517629408824:android:22b9dcc2311fc76c8ad8cd",
+        "android_client_info": {
+          "package_name": "com.example.tiketku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517629408824-jervoockq584i4j1c2gqcrducn9249j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAl6yqBuSL4NyJrSsprcWUqMhwXVoMvN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517629408824-jervoockq584i4j1c2gqcrducn9249j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
